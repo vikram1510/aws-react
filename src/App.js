@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Vikrams app
+          Vikrams app 2 deploy
         </p>
         <a
           className="App-link"
